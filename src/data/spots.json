@@ -1,0 +1,236 @@
+[
+    {
+        "id": "founders-library-2f",
+        "name": "Founders Library, 2nd Floor",
+        "building": "Founders Library",
+        "noise": "quiet",
+        "hasOutlets": true,
+        "opensAt": "08:00",
+        "closesAt": "22:00"
+    },
+    {
+        "id": "blackburn-center-lounge",
+        "name": "Blackburn Center Lounge",
+        "building": "Blackburn Center",
+        "noise": "lively",
+        "hasOutlets": true,
+        "opensAt": "07:00",
+        "closesAt": "23:00"
+    },
+    {
+        "id": "drew-hall-lounge",
+        "name": "Drew hall lounge",
+        "building": "Drew Hall",
+        "noise": "lively",
+        "hasOutlets": true,
+        "opensAt": "00:00",
+        "closesAt": "23:59"
+    },
+    {
+        "id": "bethune-annex-lounge",
+        "name": "Bethune annex lounge",
+        "building": "Bethune Annex Hall",
+        "noise": "lively",
+        "hasOutlets": true,
+        "opensAt": "00:00",
+        "closesAt": "23:59"
+    },
+    {
+        "id": "locke-study-room",
+        "name": "Locke study room",
+        "building": "Locke Hall",
+        "noise": "quiet",
+        "hasOutlets": true,
+        "opensAt": "08:00",
+        "closesAt": "20:00"
+    },
+    {
+        "id": "douglass-study-room",
+        "name": "Douglass study room",
+        "building": "Douglass Hall",
+        "noise": "silent",
+        "hasOutlets": true,
+        "opensAt": "08:00",
+        "closesAt": "20:00"
+    },
+    {
+        "id": "asb-study-room-main",
+        "name": "ASB main study room",
+        "building": "ASB Building",
+        "noise": "silent",
+        "hasOutlets": true,
+        "opensAt": "08:00",
+        "closesAt": "20:00"
+    },
+    {
+        "id": "asb-study-room2",
+        "name": "ASB study room",
+        "building": "ASB Building",
+        "noise": "silent",
+        "hasOutlets": true,
+        "opensAt": "08:00",
+        "closesAt": "20:00"
+    },
+    {
+        "id": "lkd-study-lounge",
+        "name": "LKD study lounge",
+        "building": "LKD Building",
+        "noise": "moderate",
+        "hasOutlets": true,
+        "opensAt": "08:00",
+        "closesAt": "22:00"
+    },
+    {
+        "id": "lkd-computer-room",
+        "name": "LKD computer room",
+        "building": "LKD Building",
+        "noise": "silent",
+        "hasOutlets": true,
+        "opensAt": "08:00",
+        "closesAt": "20:00"
+    },
+    {
+        "id": "markey-innovation-space",
+        "name": "Markey innovation space",
+        "building": "Markey Building",
+        "noise": "lively",
+        "hasOutlets": true,
+        "opensAt": "08:00",
+        "closesAt": "20:00"
+    },
+    {
+        "id": "markey-study-lounge",
+        "name": "Markey study lounge",
+        "building": "Markey Building",
+        "noise": "moderate",
+        "hasOutlets": true,
+        "opensAt": "08:00",
+        "closesAt": "20:00"
+    },
+    {
+        "id": "miner-study-lounge",
+        "name": "Miner study lounge",
+        "building": "Miner Building",
+        "noise": "silent",
+        "hasOutlets": true,
+        "opensAt": "08:00",
+        "closesAt": "20:00"
+    },
+    {
+        "id": "carnegie-study-lounge",
+        "name": "Carnegie study lounge",
+        "building": "Carnegie Building",
+        "noise": "quiet",
+        "hasOutlets": true,
+        "opensAt": "08:00",
+        "closesAt": "20:00"
+    },
+    {
+        "id": "ai-federick-undergrad-library-study-lounge1",
+        "name": "AI Federick undergrad library",
+        "building": "AI Federick Undergrad Library",
+        "noise": "quiet",
+        "hasOutlets": true,
+        "opensAt": "08:00",
+        "closesAt": "22:00"
+    },
+    {
+        "id": "ai-federick-undergrad-library-study-rooms",
+        "name": "AI Federick undergrad library rooms",
+        "building": "AI Federick Undergrad Library",
+        "noise": "quiet",
+        "hasOutlets": true,
+        "opensAt": "08:00",
+        "closesAt": "22:00"
+    },
+    {
+        "id": "Undergrad-library-computer-lounges",
+        "name": "AI Federick undergrad library",
+        "building": "AI Federick Undergrad Library",
+        "noise": "quiet",
+        "hasOutlets": true,
+        "opensAt": "08:00",
+        "closesAt": "22:00"
+    },
+    {
+        "id": "stokes-library-study-lounge",
+        "name": "Stokes library lounge",
+        "building": "Louis Stokes Health Sciences Library",
+        "noise": "silent",
+        "hasOutlets": true,
+        "opensAt": "08:00",
+        "closesAt": "20:00"
+    },
+    {
+        "id": "stokes-library-study-rooms",
+        "name": "Stokes library study rooms",
+        "building": "Louis Stokes Health Sciences Library",
+        "noise": "silent",
+        "hasOutlets": true,
+        "opensAt": "08:00",
+        "closesAt": "20:00"
+    },
+    {
+        "id": "chs-study-lounge",
+        "name": "CHS study lounge",
+        "building": "College Hall South",
+        "noise": "moderate",
+        "hasOutlets": true,
+        "opensAt": "00:00",
+        "closesAt": "23:59"
+    },
+    {
+        "id": "college-hall-north-study-suites",
+        "name": "College Hall North Study Suites",
+        "building": "College Hall North",
+        "noise": "quiet",
+        "hasOutlets": true,
+        "opensAt": "00:00",
+        "closesAt": "23:59"
+    },
+    {
+        "id": "college-hall-north-computer-lab",
+        "name": "College Hall North Computer Lab",
+        "building": "College Hall North",
+        "noise": "quiet",
+        "hasOutlets": true,
+        "opensAt": "00:00",
+        "closesAt": "23:59"
+    },
+    {
+        "id": "plaza-towers-east-study-lounge",
+        "name": "Plaza Towers East Study Lounge",
+        "building": "Howard Plaza Towers East",
+        "noise": "moderate",
+        "hasOutlets": true,
+        "opensAt": "00:00",
+        "closesAt": "23:59"
+    },
+    {
+        "id": "plaza-towers-west-study-rooms",
+        "name": "Plaza Towers West Study Rooms",
+        "building": "Howard Plaza Towers West",
+        "noise": "quiet",
+        "hasOutlets": true,
+        "opensAt": "00:00",
+        "closesAt": "23:59"
+    },
+    {
+        "id": "school-of-business-student-lounge",
+        "name": "School of Business Student Lounge",
+        "building": "School of Business",
+        "noise": "moderate",
+        "hasOutlets": true,
+        "opensAt": "08:00",
+        "closesAt": "20:00"
+    },
+    {
+        "id": "chemistry-building-study-lounge",
+        "name": "Chemistry Building Study Lounge",
+        "building": "Chemistry Building",
+        "noise": "quiet",
+        "hasOutlets": true,
+        "opensAt": "08:00",
+        "closesAt": "21:00"
+    }
+]
